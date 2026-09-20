@@ -161,5 +161,5 @@ English_Study_History/
 ## Status atual (com base no histórico)
 
 - **Última aula registrada:** 2026-09-19
-- **Nível estimado (aula 19/09):** A2, caminhando para B1 profissional
-- **Próximo foco:** conversação profissional + entrevista; estrutura Problema → Investigação → Solução
+- **Nível estimado (aula 19/09):** A2, com sinais de B1 profissional (avaliação informal desta aula)
+- **Próximo foco:** conversação + Present Simple/Past Simple + vocabulário de BI; 5 perguntas de entrevista seguidas
